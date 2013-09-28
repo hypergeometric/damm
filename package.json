@@ -1,0 +1,27 @@
+{
+  "name": "damm",
+  "version": "0.0.1",
+  "description": "Damm check digit algorithm",
+  "main": "damm.js",
+  "scripts": {
+    "test": "mocha damm.specs.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IonDriveSoftware/damm.git"
+  },
+  "keywords": [
+    "damm",
+    "check",
+    "digit"
+  ],
+  "author": "Ion Drive Software <github@iondrivesoftware.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IonDriveSoftware/damm/issues"
+  },
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  }
+}
