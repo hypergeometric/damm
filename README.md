@@ -6,6 +6,12 @@ transposition errors (swapping adjacent numbers). For more information see the
 [Wikipedia article](https://en.wikipedia.org/wiki/Damm_algorithm) which includes
 a description of the algorithm and links to the relevant papers.
 
+## Install
+
+```js
+npm install damm
+```
+
 ## Example
 
 ```js
